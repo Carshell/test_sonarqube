@@ -1,3 +1,5 @@
+SOME IMPORTANT CHANGES IN README TO TEST SONARQUBE
+
 <h1 align=center>Meghna Hugo Theme</h1>
 
 <p align="center">Meghna is a dark single page professional Hugo website theme and crafted with all the necessary elements and features you will need to present your business.</p>
